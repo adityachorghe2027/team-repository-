@@ -2,7 +2,7 @@
 
 **College or field:** YOUR COLLEGE OR FIELD
 
-**City:** YOUR CITY
+**City:** mankhurd
 
 ## About me
 
